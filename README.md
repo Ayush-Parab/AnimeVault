@@ -4,6 +4,14 @@
 
 Anime Vault is a comprehensive anime database and management system designed to organize and explore a vast collection of anime titles. Immerse yourself in a world of captivating stories, dynamic characters, and endless possibilities.
 
+
+## Features
+
+1. Get anime MAL ids based on keywords in anime titles
+2. Get highest scored anime related to the genre(s) of your choice
+3. Sort anime on the basis of rank, score, popularity
+
+
 ## Usage
 
 Unleash the power of Anime Vault and dive into a world of anime exploration:
