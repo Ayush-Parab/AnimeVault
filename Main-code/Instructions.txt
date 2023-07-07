@@ -1,8 +1,0 @@
- This file contains instructions to execute the code
-
-  1. Make sure you have installed all the libraries which will be used throughout the code
-  2. Download the database from the appropriate folder
-  3. ARS_1.py and ARS_2.py are meant only for the developer, do not try to run those files
-  4. ARS_3.py is where you can do all the sorting according to your parameters
-
-If you face any problems or have feedback reach out to me at parabayush7@gmail.com
