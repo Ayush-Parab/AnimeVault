@@ -18,7 +18,13 @@ Unleash the power of Anime Vault and dive into a world of anime exploration:
 
 1. First open the Database folder and download the database after installing MySQL
 
-2. Open the Main-code folder and read the "Instructions.txt" carefully
+2. Make sure you have installed all the libraries which will be used throughout the code
+  
+3. Download the database from the appropriate folder
+  
+4. ARS_1.py and ARS_2.py are meant only for the developer, do not try to run those files
+  
+5. ARS_3.py is where you can do all the sorting according to your parameters
 
 Follow all the steps to get started!
 
